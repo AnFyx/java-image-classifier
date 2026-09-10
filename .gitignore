@@ -1,0 +1,12 @@
+# Build output
+out/
+out-exp/
+*.class
+# IDE
+.idea/
+*.iml
+.vscode/
+# Dataset (not redistributed)
+dataset_groupe_8/
+dataset_animaux/
+*.zip
