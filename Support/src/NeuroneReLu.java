@@ -1,7 +1,9 @@
-public class NeuroneReLU extends Neurone
+package src;
+
+public class NeuroneReLu extends Neurone
 {
     
-    public NeuroneReLU(final int nbEntrees)
+    public NeuroneReLu(final int nbEntrees)
     {
         super(nbEntrees);
     }
